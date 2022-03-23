@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "996605022445",
+    "project_id": "doco-88723",
+    "storage_bucket": "doco-88723.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:996605022445:android:289986518b2a2492e2fce4",
+        "android_client_info": {
+          "package_name": "com.example.project_doco"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "996605022445-kmt6hhv25vqglamre5a35v0v6n0egamv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDq1peUmnIE66HDFAMph6On9_nOLgQXqis"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "996605022445-kmt6hhv25vqglamre5a35v0v6n0egamv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
